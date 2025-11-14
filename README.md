@@ -9,6 +9,6 @@
 
 This is a simple Overflowing Palette puzzle on Unity. 
 
-Feel free to clone this repository to try it locally.
+Feel free to clone this repository to try it locally. That's it, thank you!
 
-That's it, thank you!
+
