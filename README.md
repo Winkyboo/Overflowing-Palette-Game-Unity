@@ -7,7 +7,7 @@
 **Language :** C# (.cs)
 
 
-This is a simple Overflowing Palette puzzle on Unity. 
+This is a simple Overflowing Palette puzzle on Unity. It features the Overflowing Palette Puzzle on Beohr Waters from Wuthering Waves.
 
 Feel free to clone this repository to try it locally. That's it, thank you!
 
